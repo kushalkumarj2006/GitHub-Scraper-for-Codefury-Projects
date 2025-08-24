@@ -5,13 +5,13 @@
 
 A powerful and efficient GitHub scraping tool designed to collect and analyze contributor data from multiple Codefury hackathon repositories. This project helps visualize the collaborative efforts of participants across various Codefury editions.
 
-## 📄 View Leaderboard
+## 📄 View Contributors
 
 Check out the complete list of contributors for all Codefury projects:
 
 <div align="center">
 
-[![🚀 Contributor Leaderboard - Click Here](https://img.shields.io/badge/🚀%20Contributor%20Leaderboard-Click%20Here-brightgreen?style=for-the-badge&logo=github)](output/all_contributors_sorted.md)
+[![🚀 Contributors List - Click Here](https://img.shields.io/badge/🚀%20Contributor%20List-Click%20Here-brightgreen?style=for-the-badge&logo=github)](output/all_contributors_sorted.md)
 
 </div>
 
